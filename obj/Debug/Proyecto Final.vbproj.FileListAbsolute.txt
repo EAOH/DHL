@@ -1,0 +1,124 @@
+C:\Users\Familia Hernandez\source\repos\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.exe.config
+C:\Users\Familia Hernandez\source\repos\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.exe
+C:\Users\Familia Hernandez\source\repos\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.pdb
+C:\Users\Familia Hernandez\source\repos\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.xml
+C:\Users\Familia Hernandez\source\repos\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.vbprojAssemblyReference.cache
+C:\Users\Familia Hernandez\source\repos\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmLogin.resources
+C:\Users\Familia Hernandez\source\repos\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.Resources.resources
+C:\Users\Familia Hernandez\source\repos\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.vbproj.GenerateResource.cache
+C:\Users\Familia Hernandez\source\repos\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.vbproj.CoreCompileInputs.cache
+C:\Users\Familia Hernandez\source\repos\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.exe
+C:\Users\Familia Hernandez\source\repos\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.xml
+C:\Users\Familia Hernandez\source\repos\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.pdb
+C:\Users\Familia Hernandez\source\repos\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmEmpleado.resources
+G:\Programacion IV\Proyecto final\Avance 2\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.exe.config
+G:\Programacion IV\Proyecto final\Avance 2\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.exe
+G:\Programacion IV\Proyecto final\Avance 2\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.pdb
+G:\Programacion IV\Proyecto final\Avance 2\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.xml
+G:\Programacion IV\Proyecto final\Avance 2\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.vbprojAssemblyReference.cache
+G:\Programacion IV\Proyecto final\Avance 2\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmLogin.resources
+G:\Programacion IV\Proyecto final\Avance 2\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.Resources.resources
+G:\Programacion IV\Proyecto final\Avance 2\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmEmpleado.resources
+G:\Programacion IV\Proyecto final\Avance 2\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.vbproj.GenerateResource.cache
+G:\Programacion IV\Proyecto final\Avance 2\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.vbproj.CoreCompileInputs.cache
+G:\Programacion IV\Proyecto final\Avance 2\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.exe
+G:\Programacion IV\Proyecto final\Avance 2\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.xml
+G:\Programacion IV\Proyecto final\Avance 2\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.pdb
+D:\Programacion IV\Proyecto final\Avance 2\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.exe.config
+D:\Programacion IV\Proyecto final\Avance 2\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.exe
+D:\Programacion IV\Proyecto final\Avance 2\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.pdb
+D:\Programacion IV\Proyecto final\Avance 2\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.xml
+D:\Programacion IV\Proyecto final\Avance 2\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmLogin.resources
+D:\Programacion IV\Proyecto final\Avance 2\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.Resources.resources
+D:\Programacion IV\Proyecto final\Avance 2\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmEmpleado.resources
+D:\Programacion IV\Proyecto final\Avance 2\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.vbproj.GenerateResource.Cache
+D:\Programacion IV\Proyecto final\Avance 2\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.vbproj.CoreCompileInputs.cache
+D:\Programacion IV\Proyecto final\Avance 2\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.exe
+D:\Programacion IV\Proyecto final\Avance 2\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.xml
+D:\Programacion IV\Proyecto final\Avance 2\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.pdb
+D:\Programacion IV\Proyecto final\Avance 2\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.vbprojResolveAssemblyReference.cache
+G:\Programacion IV\Proyecto final\Avance 2\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmCliente.resources
+G:\Programacion IV\Proyecto final\Avance 2\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmMenuAtencion.resources
+G:\Programacion IV\Proyecto final\Avance 2\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmArticulos.resources
+G:\Programacion IV\Proyecto final\Avance 2\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmMenuAdministrador.resources
+G:\Programacion IV\Proyecto final\Avance 2\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmOtrosGastos.resources
+G:\Programacion IV\Proyecto final\Avance 2\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmPais.resources
+G:\Programacion IV\Proyecto final\Avance 2\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmZona.resources
+G:\Programacion IV\Proyecto final\Avance 2\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmAlmacenaje.resources
+E:\Programacion IV\Proyecto final\Avance 2\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.exe.config
+E:\Programacion IV\Proyecto final\Avance 2\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.exe
+E:\Programacion IV\Proyecto final\Avance 2\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.pdb
+E:\Programacion IV\Proyecto final\Avance 2\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.xml
+E:\Programacion IV\Proyecto final\Avance 2\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.vbprojAssemblyReference.cache
+E:\Programacion IV\Proyecto final\Avance 2\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmLogin.resources
+E:\Programacion IV\Proyecto final\Avance 2\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.Resources.resources
+E:\Programacion IV\Proyecto final\Avance 2\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmAlmacenaje.resources
+E:\Programacion IV\Proyecto final\Avance 2\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmArticulos.resources
+E:\Programacion IV\Proyecto final\Avance 2\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmCliente.resources
+E:\Programacion IV\Proyecto final\Avance 2\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmEmpleado.resources
+E:\Programacion IV\Proyecto final\Avance 2\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmEnvio.resources
+E:\Programacion IV\Proyecto final\Avance 2\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmEnvioMensajero.resources
+E:\Programacion IV\Proyecto final\Avance 2\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmMenuAdministrador.resources
+E:\Programacion IV\Proyecto final\Avance 2\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmMenuAtencion.resources
+E:\Programacion IV\Proyecto final\Avance 2\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmOtrosGastos.resources
+E:\Programacion IV\Proyecto final\Avance 2\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmPais.resources
+E:\Programacion IV\Proyecto final\Avance 2\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmZona.resources
+E:\Programacion IV\Proyecto final\Avance 2\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.vbproj.GenerateResource.cache
+E:\Programacion IV\Proyecto final\Avance 2\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.vbproj.CoreCompileInputs.cache
+E:\Programacion IV\Proyecto final\Avance 2\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.exe
+E:\Programacion IV\Proyecto final\Avance 2\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.xml
+E:\Programacion IV\Proyecto final\Avance 2\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.pdb
+D:\Programacion IV\Proyecto final\Avance 2\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmAlmacenaje.resources
+D:\Programacion IV\Proyecto final\Avance 2\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmArticulos.resources
+D:\Programacion IV\Proyecto final\Avance 2\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmCliente.resources
+D:\Programacion IV\Proyecto final\Avance 2\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmEnvio.resources
+D:\Programacion IV\Proyecto final\Avance 2\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmMenuAdministrador.resources
+D:\Programacion IV\Proyecto final\Avance 2\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmMenuAtencion.resources
+D:\Programacion IV\Proyecto final\Avance 2\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmOtrosGastos.resources
+D:\Programacion IV\Proyecto final\Avance 2\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmPais.resources
+D:\Programacion IV\Proyecto final\Avance 2\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmZona.resources
+G:\Programacion IV\Proyecto final\Avance 2\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmEnvio.resources
+D:\Programacion IV\Proyecto final\Proyecto final\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmLogin.resources
+D:\Programacion IV\Proyecto final\Proyecto final\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.Resources.resources
+D:\Programacion IV\Proyecto final\Proyecto final\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmAlmacenaje.resources
+D:\Programacion IV\Proyecto final\Proyecto final\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmArticulos.resources
+D:\Programacion IV\Proyecto final\Proyecto final\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmCliente.resources
+D:\Programacion IV\Proyecto final\Proyecto final\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmEmpleado.resources
+D:\Programacion IV\Proyecto final\Proyecto final\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmEnvio.resources
+D:\Programacion IV\Proyecto final\Proyecto final\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmMenuAdministrador.resources
+D:\Programacion IV\Proyecto final\Proyecto final\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmMenuAtencion.resources
+D:\Programacion IV\Proyecto final\Proyecto final\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmOtrosGastos.resources
+D:\Programacion IV\Proyecto final\Proyecto final\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmPais.resources
+D:\Programacion IV\Proyecto final\Proyecto final\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmZona.resources
+D:\Programacion IV\Proyecto final\Proyecto final\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.vbproj.GenerateResource.Cache
+D:\Programacion IV\Proyecto final\Proyecto final\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.vbproj.CoreCompileInputs.cache
+D:\Programacion IV\Proyecto final\Proyecto final\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.exe
+D:\Programacion IV\Proyecto final\Proyecto final\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.xml
+D:\Programacion IV\Proyecto final\Proyecto final\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.pdb
+D:\Programacion IV\Proyecto final\Proyecto final\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.exe.config
+D:\Programacion IV\Proyecto final\Proyecto final\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.exe
+D:\Programacion IV\Proyecto final\Proyecto final\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.pdb
+D:\Programacion IV\Proyecto final\Proyecto final\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.xml
+G:\Programacion IV\Proyecto final\Proyecto final\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.exe.config
+G:\Programacion IV\Proyecto final\Proyecto final\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.exe
+G:\Programacion IV\Proyecto final\Proyecto final\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.pdb
+G:\Programacion IV\Proyecto final\Proyecto final\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.xml
+G:\Programacion IV\Proyecto final\Proyecto final\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.vbprojAssemblyReference.cache
+G:\Programacion IV\Proyecto final\Proyecto final\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmLogin.resources
+G:\Programacion IV\Proyecto final\Proyecto final\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.Resources.resources
+G:\Programacion IV\Proyecto final\Proyecto final\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmAlmacenaje.resources
+G:\Programacion IV\Proyecto final\Proyecto final\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmArticulos.resources
+G:\Programacion IV\Proyecto final\Proyecto final\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmCliente.resources
+G:\Programacion IV\Proyecto final\Proyecto final\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmEmpleado.resources
+G:\Programacion IV\Proyecto final\Proyecto final\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmEnvio.resources
+G:\Programacion IV\Proyecto final\Proyecto final\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmMenuAdministrador.resources
+G:\Programacion IV\Proyecto final\Proyecto final\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmMenuAtencion.resources
+G:\Programacion IV\Proyecto final\Proyecto final\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmOtrosGastos.resources
+G:\Programacion IV\Proyecto final\Proyecto final\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmPais.resources
+G:\Programacion IV\Proyecto final\Proyecto final\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmZona.resources
+G:\Programacion IV\Proyecto final\Proyecto final\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.vbproj.GenerateResource.cache
+G:\Programacion IV\Proyecto final\Proyecto final\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.vbproj.CoreCompileInputs.cache
+G:\Programacion IV\Proyecto final\Proyecto final\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.exe
+G:\Programacion IV\Proyecto final\Proyecto final\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.xml
+G:\Programacion IV\Proyecto final\Proyecto final\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.pdb
+D:\Programacion IV\Proyecto final\Proyecto final\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.vbprojResolveAssemblyReference.cache
